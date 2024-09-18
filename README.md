@@ -16,6 +16,7 @@ A cryptocurrency tracker built with React that allows users to view real-time cr
 
 ## Future Enhancements
 - **Currency Switcher**: Toggle between different currencies (USD, EUR, etc.)
+- **Historical Trends**: Select a range of dates to view historical data across multiple days, or, for a specific day
 
 
 ## Installation
