@@ -15,28 +15,29 @@ A cryptocurrency tracker built with React that allows users to view real-time cr
 - **Favorites**: Mark cryptocurrencies as favorites.
 
 ## Future Enhancements
-- **Currency Switcher**: Toggle between different fiat currencies (USD, EUR, etc.)
+- **Currency Switcher**: Toggle between different currencies (USD, EUR, etc.)
 
 
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cryptocurrency-tracker.git
+   git clone https://github.com/Mahima10/cryptocurrency-tracker.git
    cd cryptocurrency-tracker
 2. npm install
 3. npm start
 
 ## Project-Structure
-cryptocurrency-tracker/
+```cryptocurrency-tracker/
 ├── public/
 ├── src/
-│   ├── components/          # Reusable components (e.g., Chart, Navbar)
-│   ├── pages/               # Pages like Home, CoinDetails, etc.
-│   ├── utils/               # Utility functions and API calls
-│   ├── App.js               # Main app component
-│   ├── index.js             # React entry point
-│   └── styles.css           # Global styles
-└── README.md                # Project documentation
+│   ├── components/          
+│   ├── pages/    
+│   ├── config/            
+│   ├── App.js          
+│   ├── index.js       
+│   └── App.css 
+└── README.md              
+```
 
 
 Happy Coding!!
