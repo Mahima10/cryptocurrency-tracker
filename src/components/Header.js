@@ -59,7 +59,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
   },
 }));
 
-export default function Header({favourites}) {
+export default function Header({favourites=[]}) {
   const [badge, setBadge] = React.useState(0);
   const menuId = 'primary-search-account-menu';
 
